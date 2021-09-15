@@ -1,0 +1,6 @@
+a = 30
+b = 45
+
+soma = a + b
+print("A soma dos numeros é ", soma)
+
